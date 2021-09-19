@@ -23,7 +23,7 @@
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
-	<img width="10%" style="padding:5px" src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2020/06/C_C_featuredimage.png?itok=o1mJTa7J"/>
+	<img width="10%" style="padding:5px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Nv0XNyegzB0AvP-uFh4_A76FVuPg8t2g5g&usqp=CAU"/>
 </p>
 
 #### Profile views counter
