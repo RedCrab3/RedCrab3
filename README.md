@@ -18,7 +18,7 @@
 	<a href="https://www.instagram.com/divinedgupta372/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
 
-### Programming Languages....
+### Programming Languages I am familiar with:
 
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
