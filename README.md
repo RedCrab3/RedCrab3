@@ -6,7 +6,7 @@
 
 
 - I'm **A VITian and currently in my 3rd Year** 
-- Currently Learning **Java**, **Python**, **Django Framework** And **Machine Learning**
+- Currently Learning **Java**, **Python**, **Flask Framework** And **Machine Learning**
 - Always eager to **learning new things!!**
 
 
