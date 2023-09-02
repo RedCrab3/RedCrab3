@@ -17,8 +17,3 @@
 	<a href="www.linkedin.com/in/divyabrata-dasgupta-9298a8193"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.instagram.com/divinedgupta372/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
-
-#### Profile views counter
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RedCrab3)  
-
-![Profile views](https://gpvc.arturio.dev/RedCrab3)  
