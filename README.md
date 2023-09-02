@@ -5,8 +5,8 @@
 </p>
 
 
-- I'm **A VITian and currently in my 3rd Year** 
-- Currently Learning **Java**, **Python**, **Flask Framework** And **Machine Learning**
+- I'm an **Ex VITian** 
+- Currently Learning **Spring Boot** and **React JS**
 - Always eager to **learning new things!!**
 
 
